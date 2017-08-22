@@ -5,4 +5,4 @@ emotions << "Drunk"
 better_feels = ["Logical", "Refined"]
 emotions << better_feels
 
-p emotions
+puts emotions
